@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddingAndDeletingTableViewRows/AddingAndDeletingTableViewRows.iml" filepath="$PROJECT_DIR$/AddingAndDeletingTableViewRows/AddingAndDeletingTableViewRows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AnonymousInnerClassAndLambdaExpressions/AnonymousInnerClassAndLambdaExpressions.iml" filepath="$PROJECT_DIR$/AnonymousInnerClassAndLambdaExpressions/AnonymousInnerClassAndLambdaExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binding/Binding.iml" filepath="$PROJECT_DIR$/Binding/Binding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BindingPropertiesExample/BindingPropertiesExample.iml" filepath="$PROJECT_DIR$/BindingPropertiesExample/BindingPropertiesExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSSCustomStyleClassesAndSelectors/CSSCustomStyleClassesAndSelectors.iml" filepath="$PROJECT_DIR$/CSSCustomStyleClassesAndSelectors/CSSCustomStyleClassesAndSelectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSSInlineStylesAndSelectors/CSSInlineStylesAndSelectors.iml" filepath="$PROJECT_DIR$/CSSInlineStylesAndSelectors/CSSInlineStylesAndSelectors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSSThemesAndStyles/CSSThemesAndStyles.iml" filepath="$PROJECT_DIR$/CSSThemesAndStyles/CSSThemesAndStyles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckBox/CheckBox.iml" filepath="$PROJECT_DIR$/CheckBox/CheckBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckMenuItem/CheckMenuItem.iml" filepath="$PROJECT_DIR$/CheckMenuItem/CheckMenuItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChoiceBox/ChoiceBox.iml" filepath="$PROJECT_DIR$/ChoiceBox/ChoiceBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClosingProgramProperlyV2/ClosingProgramProperlyV2.iml" filepath="$PROJECT_DIR$/ClosingProgramProperlyV2/ClosingProgramProperlyV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClosingTheProgramProperly/ClosingTheProgramProperly.iml" filepath="$PROJECT_DIR$/ClosingTheProgramProperly/ClosingTheProgramProperly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComboBox/ComboBox.iml" filepath="$PROJECT_DIR$/ComboBox/ComboBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CommunicatingBetweenWindows/CommunicatingBetweenWindows.iml" filepath="$PROJECT_DIR$/CommunicatingBetweenWindows/CommunicatingBetweenWindows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatingAlertBoxes/CreatingAlertBoxes.iml" filepath="$PROJECT_DIR$/CreatingAlertBoxes/CreatingAlertBoxes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreatingWindowBasic/CreatingWindowBasic.iml" filepath="$PROJECT_DIR$/CreatingWindowBasic/CreatingWindowBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EditableTables/EditableTables.iml" filepath="$PROJECT_DIR$/EditableTables/EditableTables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EmbeddingLayouts/EmbeddingLayouts.iml" filepath="$PROJECT_DIR$/EmbeddingLayouts/EmbeddingLayouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtractAndValidateInput/ExtractAndValidateInput.iml" filepath="$PROJECT_DIR$/ExtractAndValidateInput/ExtractAndValidateInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridPane/GridPane.iml" filepath="$PROJECT_DIR$/GridPane/GridPane.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandleUserEvents/HandleUserEvents.iml" filepath="$PROJECT_DIR$/HandleUserEvents/HandleUserEvents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlingMenuClicks/HandlingMenuClicks.iml" filepath="$PROJECT_DIR$/HandlingMenuClicks/HandlingMenuClicks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InitializeBindingAndReusableComponents/InitializeBindingAndReusableComponents.iml" filepath="$PROJECT_DIR$/InitializeBindingAndReusableComponents/InitializeBindingAndReusableComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroAndControllersInFXML/IntroAndControllersInFXML.iml" filepath="$PROJECT_DIR$/IntroAndControllersInFXML/IntroAndControllersInFXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IntroductionToTableView/IntroductionToTableView.iml" filepath="$PROJECT_DIR$/IntroductionToTableView/IntroductionToTableView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX/JavaFX.iml" filepath="$PROJECT_DIR$/JavaFX/JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaFx.iml" filepath="$PROJECT_DIR$/.idea/JavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListeningForSelectionChanges/ListeningForSelectionChanges.iml" filepath="$PROJECT_DIR$/ListeningForSelectionChanges/ListeningForSelectionChanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakingMenus/MakingMenus.iml" filepath="$PROJECT_DIR$/MakingMenus/MakingMenus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Properties/Properties.iml" filepath="$PROJECT_DIR$/Properties/Properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RadioMenuItem/RadioMenuItem.iml" filepath="$PROJECT_DIR$/RadioMenuItem/RadioMenuItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SceneBuilder/SceneBuilder.iml" filepath="$PROJECT_DIR$/SceneBuilder/SceneBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleTableView/SimpleTableView.iml" filepath="$PROJECT_DIR$/SimpleTableView/SimpleTableView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchingScenes/SwitchingScenes.iml" filepath="$PROJECT_DIR$/SwitchingScenes/SwitchingScenes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TreeView/TreeView.iml" filepath="$PROJECT_DIR$/TreeView/TreeView.iml" />
+    </modules>
+  </component>
+</project>
